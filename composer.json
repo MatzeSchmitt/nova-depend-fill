@@ -1,5 +1,5 @@
 {
-    "name": "klepak/nova-depend-fill",
+    "name": "MatzeSchmitt/nova-depend-fill",
     "description": "Fill Laravel Nova field based on value from other field.  ",
     "keywords": [
         "laravel",
